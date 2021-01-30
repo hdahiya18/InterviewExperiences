@@ -24,3 +24,7 @@ https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-v
 [Comparable vs Comparator](https://www.baeldung.com/java-comparator-comparable)
 
 
+
+> static and final keywords
+
+https://stackoverflow.com/questions/13772827/difference-between-static-and-final
