@@ -28,3 +28,7 @@ https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-v
 > static and final keywords
 
 https://stackoverflow.com/questions/13772827/difference-between-static-and-final
+
+> Hashmap vs hashtable
+
+https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/amp/
