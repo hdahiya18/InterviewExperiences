@@ -35,4 +35,5 @@ https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/
 
 > Garbage collection Java
 
-https://www.google.com/amp/s/stackify.com/what-is-java-garbage-collection/amp/
+https://www.google.com/amp/s/www.geeksforgeeks.org/garbage-collection-java/amp/
+
