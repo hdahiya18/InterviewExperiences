@@ -32,3 +32,7 @@ https://stackoverflow.com/questions/13772827/difference-between-static-and-final
 > Hashmap vs hashtable
 
 https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/amp/
+
+> Garbage collection Java
+
+https://www.google.com/amp/s/stackify.com/what-is-java-garbage-collection/amp/
